@@ -1,0 +1,12 @@
+inherit python-wheel
+
+NAME="python-hyperlink"
+VERSION=18.0.0
+RELEASE=1
+CATEGORY="Python"
+SUMMARY="Immutable URL module for Python"
+DESCRIPTION="Hyperlink provides a pure-Python implementation of immutable URLs.
+Based on RFC 3986 and RFC 3987, the Hyperlink URL balances simplicity and
+correctness for both URIs and IRIs."
+
+ARCH=noarch
